@@ -587,7 +587,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Executed-BotZ :*
+*📚 List-Menu Neo-BotZ :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -1516,7 +1516,17 @@ exports.tos = (ownernomer) => {
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-
+┏──「 Donasi • Dana 」─⬣
+│ • Pulsa : 085600380823/082153954737
+│ • Dana : 085600380823
+│ • Sociabuzz : https://sociabuzz.com/ezinter/support
+╰────────⬣
+┏──「 *NOTE* 」─⬣
+│ > Ingin donasi? wa.me/6285600380823
+│ _Hasil donasi akan digunakan buat sewa_
+│ _atau beli *RDP/VPS* agar bot bisa jalan_
+│ _24jam tanpa kendala_
+┗────────⬣
 Berapapun donasi kalian akan sangat berarti 👍
 
 Thanks!
